@@ -37,3 +37,12 @@
     99% { background-color: transparent; }
     100%  { background-color: #ccc; }
   }
+  .row{
+    align-items: center;
+    justify-content: center;
+  }
+  .row h1{
+    background-color: red;
+    border-radius: 11px;
+    padding:10px;
+  }
